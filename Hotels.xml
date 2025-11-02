@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Hotels>
   <Hotel Rating="4.2">
-    <Name>Westin</Name>
+    <Name>Westin Tempe</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
     <Address>
@@ -10,7 +10,138 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearestAirport>PHX</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Park Hyatt Tokyo</Name>
+    <Phone>+81-3-5322-1234</Phone>
+    <Address>
+      <Number>3-7-1</Number>
+      <Street>Nishi-Shinjuku</Street>
+      <City>Tokyo</City>
+      <State>Tokyo</State>
+      <Zip>163-1055</Zip>
+      <NearestAirport>HND</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>The Savoy</Name>
+    <Phone>+44-20-7836-4343</Phone>
+    <Address>
+      <Number>Strand</Number>
+      <Street>Westminster</Street>
+      <City>London</City>
+      <State>England</State>
+      <Zip>WC2R 0EZ</Zip>
+      <NearestAirport>LHR</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.7">
+    <Name>Burj Al Arab</Name>
+    <Phone>+971-4-301-7777</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Jumeirah St</Street>
+      <City>Dubai</City>
+      <State>Dubai</State>
+      <Zip>00000</Zip>
+      <NearestAirport>DXB</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.6">
+    <Name>Hotel de Paris Monte-Carlo</Name>
+    <Phone>+377-98-06-30-00</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Place du Casino</Street>
+      <City>Monte-Carlo</City>
+      <State>MC</State>
+      <Zip>98000</Zip>
+      <NearestAirport>NCE</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>Marina Bay Sands</Name>
+    <Phone>+65-6688-8888</Phone>
+    <Address>
+      <Number>10</Number>
+      <Street>Bayfront Ave</Street>
+      <City>Singapore</City>
+      <State>SG</State>
+      <Zip>018956</Zip>
+      <NearestAirport>SIN</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Four Seasons Sydney</Name>
+    <Phone>+61-2-9250-3100</Phone>
+    <Address>
+      <Number>199</Number>
+      <Street>George St</Street>
+      <City>Sydney</City>
+      <State>NSW</State>
+      <Zip>2000</Zip>
+      <NearestAirport>SYD</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.4">
+    <Name>Hotel Arts Barcelona</Name>
+    <Phone>+34-93-221-1000</Phone>
+    <Address>
+      <Number>1</Number>
+      <Street>Carrer de la Marina</Street>
+      <City>Barcelona</City>
+      <State>Catalonia</State>
+      <Zip>08005</Zip>
+      <NearestAirport>BCN</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Fairmont Banff Springs</Name>
+    <Phone>+1-403-762-2211</Phone>
+    <Address>
+      <Number>405</Number>
+      <Street>Spray Ave</Street>
+      <City>Banff</City>
+      <State>AB</State>
+      <Zip>T1L 1J4</Zip>
+      <NearestAirport>YYC</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.3">
+    <Name>Belmond Copacabana Palace</Name>
+    <Phone>+55-21-2548-7070</Phone>
+    <Address>
+      <Number>1702</Number>
+      <Street>Avenida Atlântica</Street>
+      <City>Rio de Janeiro</City>
+      <State>RJ</State>
+      <Zip>22021-001</Zip>
+      <NearestAirport>GIG</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel Rating="4.5">
+    <Name>The Plaza</Name>
+    <Phone>+1-212-759-3000</Phone>
+    <Phone>+1-866-940-9361</Phone>
+    <Address>
+      <Number>768</Number>
+      <Street>5th Ave</Street>
+      <City>New York</City>
+      <State>NY</State>
+      <Zip>10019</Zip>
+      <NearestAirport>JFK</NearestAirport>
     </Address>
   </Hotel>
 </Hotels>
